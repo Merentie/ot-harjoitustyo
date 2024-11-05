@@ -1,2 +1,2 @@
 # Ohjelmistotekniikka, harjoitustyö
-Ajattelin ehkä tehdä pasianssin, ellen keksi jotain parempaa.
+Ajattelin ehkä tehdä **pasianssin**, *ellen* keksi jotain parempaa.
